@@ -59,4 +59,9 @@ main {
   border-radius: 50px;
   text-decoration: none;
   color: #333;
+  transition: background 500ms ease;
+}
+
+.btn:hover {
+  background: #f4f4f4;
 }
