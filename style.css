@@ -46,3 +46,11 @@ main {
   text-align: center;
   padding: 0 1rem;
 }
+
+#landing-text h2 {
+  color: #888;
+}
+
+.btn {
+  padding: 0.5rem;
+}
