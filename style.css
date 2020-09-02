@@ -51,6 +51,16 @@ main {
   color: #888;
 }
 
+#landing-image {
+  background: url("https://source.unsplash.com/De8wMYoSSBc");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 50vh;
+  flex: 0 1 60vw;
+  margin: 0;
+}
+
 .btn {
   padding: 0.5rem 2rem;
   border: 1px #ccc solid;
